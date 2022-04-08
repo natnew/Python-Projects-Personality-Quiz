@@ -5,9 +5,9 @@ Run the code.
 
 Python
 ```python
-print("Hello, Contosoville!")
+print("Hello!")
 
-# ash the candidate a question
+# ask the candidate a question
 activity = input("How do you spend your evening?\n(A Reading a book\n(B) Attending a party\n")
 
 # print out which activity they chose
