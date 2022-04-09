@@ -130,8 +130,8 @@ else:
 
 Output
 ```python
-Hello, Contosoville!
+Hello!
 How do you spend your evening?
-(A Reading a book
+(A) Reading a book
 (B) Attending a party
 ```
